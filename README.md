@@ -10,4 +10,4 @@ This project helps you **simulate process death** and observe how lifecycle, sta
 - How to use `SavedStateHandle` to **restore state**
 - Why `onDestroy()` isn't always called
 
-MEDIUM LINK : 
+MEDIUM LINK : https://medium.com/@saifahmed9308/oops-android-killed-my-app-again-16b475c0e829
